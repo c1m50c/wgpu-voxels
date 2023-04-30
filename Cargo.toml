@@ -1,0 +1,9 @@
+[package]
+name = "wgpu-voxels"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pollster = "0.3.0"
+wgpu = "0.16.0"
+winit = "0.28.3"
